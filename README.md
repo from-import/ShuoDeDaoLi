@@ -2,4 +2,5 @@
 说的道理飞机大战
 
 效果图
-![bullet](https://github.com/from-import/ShuoDeDaoLi/assets/132730866/d245573c-5996-4ff3-ad91-f52cf939a897)
+
+![image](https://github.com/from-import/ShuoDeDaoLi/assets/132730866/e1b19be5-3ffb-46bb-9956-83cf858054a1)
